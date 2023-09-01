@@ -52,7 +52,7 @@ A-xexF> python3 a-xex.py
   │   └──[00]-Return
   │
   ├──[2]-E-Mail
-  │   ├──[1]-Send an E-mal message
+  │   ├──[1]-Send an E-mail message
   │   └──[00]-Return
   │
   ├──[3]-Servers
